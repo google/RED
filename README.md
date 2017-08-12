@@ -5,6 +5,8 @@ Y. Romano, M. Elad, and P. Milanfar, "The Little Engine that Could:
 Regularization by Denoising (RED)", submitted to SIAM Journal on 
 Imaging Sciences, 2016. https://arxiv.org/abs/1611.02862.
 
+![Examples](images/examples.png?raw=true)
+
 The code was tested on Windows 7 and Windows 10, with Matlab R2016a.
 
 This is not an official Google product.
