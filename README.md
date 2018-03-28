@@ -1,9 +1,10 @@
 # RED: version 1.0.0
 
 Demonstration of the image restoration experiments conducted in 
-Y. Romano, M. Elad, and P. Milanfar, "The Little Engine that Could: 
-Regularization by Denoising (RED)", submitted to SIAM Journal on 
-Imaging Sciences, 2016. https://arxiv.org/abs/1611.02862.
+Y. Romano, M. Elad, and P. Milanfar, "[The Little Engine that Could: 
+Regularization by Denoising (RED)](https://epubs.siam.org/doi/10.1137/16M1102884)", 
+SIAM Journal on Imaging Sciences, 10(4), 1804–1844, 2017 
+[[arXiv](https://arxiv.org/abs/1611.02862)].
 
 ![Examples](images/examples.png?raw=true)
 
