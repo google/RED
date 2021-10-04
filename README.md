@@ -17,11 +17,11 @@ This is not an official Google product.
 
 1. Clone or download this repository.
 2. Download a lightweight version of TNRD denoising from
-   https://drive.google.com/file/d/0B9L0NyTobx_3NHdJLUtPQWJmc2c/view?usp=sharing.
+   https://drive.google.com/file/d/0B9L0NyTobx_3NHdJLUtPQWJmc2c/view?usp=sharing&resourcekey=0-nelqm_IDgT2cT3E6P-TKdw.
 3. Unzip the file tnrd_denoising.zip (containing 7 files in total) to the folder 
    located in `YOUR_LOCAL_PATH/RED/tnrd_denoising`.
 4. Download test images from
-   https://drive.google.com/drive/folders/0BzCe024Ewz8aZ3pNQXNqYXJseTQ?usp=sharing
+   https://drive.google.com/drive/folders/0BzCe024Ewz8aZ3pNQXNqYXJseTQ?resourcekey=0-ZCqOZsrdjG-YNRJtrureOA&usp=sharing
    and copy to the folder located in `YOUR_LOCAL_PATH/RED/test_images`.
 5. Open Matlab and change the current folder to `YOUR_LOCAL_PATH/RED` (use "cd" function).
 6. In Matlab's command window run
